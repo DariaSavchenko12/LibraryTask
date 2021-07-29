@@ -60,7 +60,7 @@
                 <version>3.0.0-M5</version>
                 <configuration>
                     <includes>
-                        <include>**/*ParallelRunner*.java</include>
+                        <include>**/*Runner*.java</include>
                     </includes>
                     <testFailureIgnore>true</testFailureIgnore>
                     <runOrder>alphabetical</runOrder>
